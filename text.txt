@@ -7,3 +7,5 @@ npm install
 npm install openai
 
 stoped the project ? reason cloud billing not activated the reason ..
+
+once cloud biling adre matte puna project madbhud 
