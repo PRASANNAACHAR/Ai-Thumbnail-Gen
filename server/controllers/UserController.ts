@@ -23,6 +23,7 @@ export const getThumbnailbyId = async(req:Request, res: Response) =>{
 
         const thumbail = await Thumbnail.findOne({userId,_id:id});
         res.json({thumbail})
+        
     } catch (error:any) {
        console.log(error)
         res.status(500).json({message: error.message}) 
