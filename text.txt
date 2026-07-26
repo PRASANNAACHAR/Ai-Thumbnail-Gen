@@ -1,0 +1,9 @@
+video ended: 4:48:50 greatstack
+
+
+
+dependides
+npm install
+npm install openai
+
+stoped the project ? reason cloud billing not activated the reason ..
